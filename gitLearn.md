@@ -6,3 +6,4 @@ Git, yazılım dünyasında kullanılan versiyon kontrol sistemidir.
 * git config
 * git add
 * git commit
+* git push
